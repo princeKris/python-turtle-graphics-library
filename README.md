@@ -2,9 +2,10 @@
 
 🔥 A massive collection of Python Turtle graphics programs including patterns, animations, optical illusions, and math art — perfect for beginners, students, and YouTube Shorts creators.
 
+![Stars](https://img.shields.io/github/stars/princeKris/python-turtle-graphics-library?style=social)
+![Forks](https://img.shields.io/github/forks/princeKris/python-turtle-graphics-library?style=social)
+![License](https://img.shields.io/github/license/princeKris/python-turtle-graphics-library)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
 
 ---
 
