@@ -9,6 +9,15 @@
 
 ---
 
+## 🔍 About This Repository
+
+This Python Turtle Graphics Library contains a large collection of beginner-friendly
+Python Turtle programs including shapes, patterns, animations, optical illusions,
+and mathematical art. It is ideal for students learning Python, educators,
+and content creators making YouTube Shorts or Reels.
+
+---
+
 ## 📌 Features
 
 - 🎨 300+ visual Python Turtle programs
